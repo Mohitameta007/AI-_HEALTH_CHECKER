@@ -7,8 +7,6 @@
 
 ## 🌐 Live Preview
 
-
-
 ---
 
 ## 🚀 Features
